@@ -1,0 +1,20 @@
+{
+  "name": "example_svelte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "parcel-plugin-svelte": "^4.0.9",
+    "svelte": "^3.48.0"
+  },
+  "dependencies": {
+    "near-api-js": "^0.44.2"
+  }
+}
